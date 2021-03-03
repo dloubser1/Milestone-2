@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+## Part A
 
-You can use the [editor on GitHub](https://github.com/dloubser1/Milestone_2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### The Problem of Study
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+With the drastic increase in online and hybrid asynchronous learning students have issues staying focused on what is going on in their classes and are struggling to keep up with the material. While a user’s goal may be to listen in on lessons and they may plan to learn the class content by simply logging in to a call, actually performing the action of listening in is made difficult by the various distractions available through available electronic devices. This means that different students’ results will vary when compared to each other. 
 
-### Markdown
+#### How Is This Relevant?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This problem is relevant to the theme of hybrid synchronous learning because students are susceptible to distractions outside of an official classroom environment. It can be argued that it is much easier for students to distract themselves with cell phones, class-unrelated web-browsing, and/or computer games without professors or TA’s holding students accountable. Furthermore, students are less likely to engage in such behaviors in an official classroom, as their actions can potentially distract other students as well. However, when a student is at home, their actions are much less likely to directly affect their peers, so they are less likely to think twice about engaging in such actions. Students in a classroom setting are more likely to focus on the material because possible distractions such as cell phone usage can be prohibited by the instructor. However, when not in an official classroom or lecture hall, it is much easier for students to turn to such devices and disconnect from learning, which can potentially hinder their ability to absorb and process vital lesson material.
 
-```markdown
-Syntax highlighted code block
+#### Scenarios Based on The Seven Stages of Action
 
-# Header 1
-## Header 2
-### Header 3
+##### Ideal Scenario
 
-- Bulleted
-- List
+GOAL: I want to learn.
 
-1. Numbered
-2. List
+PLAN: I should remove any distractions.
 
-**Bold** and _Italic_ and `Code` text
+SPECIFY: I could possibly remove my cell phone from my environment.
 
-[Link](url) and ![Image](src)
-```
+PERFORM: I leave my cell phone in another room.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+PERCEIVE: I cannot hear or see notifications from my cell phone during lecture, nor can I physically interact with my phone when I am tempted to.
 
-### Jekyll Themes
+INTERPRET: The fact that I can only hear my instructor and my peers means there is no distraction from my cell phone.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dloubser1/Milestone_2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+COMPARE: Because I was not distracted by my cell phone, I was able to absorb more information this class period.
 
-### Support or Contact
+##### Negative Outcome
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+GOAL: I want to learn.
+
+PLAN: I should remove any distractions.
+
+SPECIFY: I could possibly remove my cell phone from my environment.
+
+PERFORM: I mute notification sounds, but I do not move it to another room.
+
+PERCEIVE: I cannot hear or see notifications from my cell phone during lecture, but I can physically interact with my phone if I am tempted to.
+
+INTERPRET: The fact that I can only hear my instructor and my peers means my cell phone isn’t distracting me, but because it is still near me I can choose to pick it up and use it during lecture.
+
+COMPARE: Because I had the option to interact with my cellphone, I might have stopped paying attention during the lecture.
+
+#### Is This Typical?
+
+This is typical of students that choose to participate online-only. Although not backed by statistical data, it can be assumed that this possible scenario has occurred to many students during Zoom lectures. We can admit that all five of us have done this before, and asking other students elicits similar admittances as well. The use of a cell phone is just one possible distraction of many. Students may also be tempted to browse the web, view movies in a separate tab, play online games, or just leave the room altogether.
+
+### The People Affected
+
+The user population most affected by our problem is composed of students attending class virtually in an environment that differs from a classroom setting, which typically involves a number of potential distractions traditionally absent from a classroom.
+
+#### The Tasks The People Do
+
+Our problem includes the following tasks:
+
+* Attending class through logging in / joining an online call
+
+* Paying attention in class and participating in interactive segments of class (i.e. answering questions or responding to polls)
+
+* Taking notes on relevant material covered by the teacher
+
+#### How Would The People Benefit?
+
+Users would benefit through a solution by ensuring greater participation and focus from a majority of the class, comparable to how a student would focus and learn in a classroom setting. Greater comprehension of material as well as greater retention of content, and therefore a better learning experience.
+
