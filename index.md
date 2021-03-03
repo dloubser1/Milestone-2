@@ -4,13 +4,13 @@
 
 With the drastic increase in online and hybrid asynchronous learning students have issues staying focused on what is going on in their classes and are struggling to keep up with the material. While a user’s goal may be to listen in on lessons and they may plan to learn the class content by simply logging in to a call, actually performing the action of listening in is made difficult by the various distractions available through available electronic devices. This means that different students’ results will vary when compared to each other. 
 
-#### How Is This Relevant?
+### How Is This Relevant?
 
 This problem is relevant to the theme of hybrid synchronous learning because students are susceptible to distractions outside of an official classroom environment. It can be argued that it is much easier for students to distract themselves with cell phones, class-unrelated web-browsing, and/or computer games without professors or TA’s holding students accountable. Furthermore, students are less likely to engage in such behaviors in an official classroom, as their actions can potentially distract other students as well. However, when a student is at home, their actions are much less likely to directly affect their peers, so they are less likely to think twice about engaging in such actions. Students in a classroom setting are more likely to focus on the material because possible distractions such as cell phone usage can be prohibited by the instructor. However, when not in an official classroom or lecture hall, it is much easier for students to turn to such devices and disconnect from learning, which can potentially hinder their ability to absorb and process vital lesson material.
 
-#### Scenarios Based on The Seven Stages of Action
+### Scenarios Based on The Seven Stages of Action
 
-##### Ideal Scenario
+#### Ideal Scenario
 
 GOAL: I want to learn.
 
@@ -26,7 +26,7 @@ INTERPRET: The fact that I can only hear my instructor and my peers means there 
 
 COMPARE: Because I was not distracted by my cell phone, I was able to absorb more information this class period.
 
-##### Negative Outcome
+#### Negative Outcome
 
 GOAL: I want to learn.
 
@@ -42,7 +42,7 @@ INTERPRET: The fact that I can only hear my instructor and my peers means my cel
 
 COMPARE: Because I had the option to interact with my cellphone, I might have stopped paying attention during the lecture.
 
-#### Is This Typical?
+### Is This Typical?
 
 This is typical of students that choose to participate online-only. Although not backed by statistical data, it can be assumed that this possible scenario has occurred to many students during Zoom lectures. We can admit that all five of us have done this before, and asking other students elicits similar admittances as well. The use of a cell phone is just one possible distraction of many. Students may also be tempted to browse the web, view movies in a separate tab, play online games, or just leave the room altogether.
 
@@ -50,7 +50,7 @@ This is typical of students that choose to participate online-only. Although not
 
 The user population most affected by our problem is composed of students attending class virtually in an environment that differs from a classroom setting, which typically involves a number of potential distractions traditionally absent from a classroom.
 
-#### The Tasks The People Do
+### The Tasks The People Do
 
 Our problem includes the following tasks:
 
