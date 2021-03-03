@@ -60,7 +60,7 @@ Our problem includes the following tasks:
 
 * Taking notes on relevant material covered by the teacher
 
-#### How Would The People Benefit?
+### How Would The People Benefit?
 
 Users would benefit through a solution by ensuring greater participation and focus from a majority of the class, comparable to how a student would focus and learn in a classroom setting. Greater comprehension of material as well as greater retention of content, and therefore a better learning experience.
 
