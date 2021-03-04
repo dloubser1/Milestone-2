@@ -10,7 +10,7 @@ This problem is relevant to the theme of hybrid synchronous learning because stu
 
 ### Scenarios Based on The Seven Stages of Action
 
-#### Ideal Scenario
+#### Ideal Scenario - we should probably delete this
 
 GOAL: I want to learn.
 
@@ -59,6 +59,8 @@ Our problem includes the following tasks:
 * Paying attention in class and participating in interactive segments of class (i.e. answering questions or responding to polls)
 
 * Taking notes on relevant material covered by the teacher
+
+* Asking questions about the material if clarification is required
 
 ### How Would The People Benefit?
 
