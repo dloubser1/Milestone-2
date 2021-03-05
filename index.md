@@ -17,8 +17,6 @@ However, when not in an official classroom or lecture hall, it is much easier fo
 
 ### Scenarios Based on The Seven Stages of Action
 
-(Thought - Change this to fullscreening Zoom so that the user can’t access their browser and browse the web, thus distracting themselves)
-
 GOAL: I want to learn.
 
 PLAN: I should remove any distractions.
