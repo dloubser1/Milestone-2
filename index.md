@@ -71,21 +71,21 @@ Existing solutions include:
 
 * Zoom Whiteboard. Zoom has a feature called Whiteboard that is what it sounds like; it’s a virtual whiteboard that the teacher and students can write on. High school and college professors use it to keep their students engaged. 
 
-  -Pros: this allows students and teachers to interact in real time. If students have not been given permission to write on it, it is still a good way to keep students attention since it is familiar to a classroom setting.
+  - Pros: this allows students and teachers to interact in real time. If students have not been given permission to write on it, it is still a good way to keep students attention since it is familiar to a classroom setting.
   
-  -Cons: some students are not as emotionally mature as others and could write vulgar/obscene things on the whiteboard for everyone to see.
+  - Cons: some students are not as emotionally mature as others and could write vulgar/obscene things on the whiteboard for everyone to see.
   
 * Zoom Polling. Zoom has a functionality that allows for teachers to poll/quiz their students in a meeting.
 
-  -Pros: Students will be more engaged if they are being asked questions throughout class. This can also give teachers a gauge on how many students are consistently paying attention.
+  - Pros: Students will be more engaged if they are being asked questions throughout class. This can also give teachers a gauge on how many students are consistently paying attention.
   
-  -Cons:  I do not believe there is a functionality to easily upload the results of the polls/quizzes to websites/other apps, so if a teacher is doing this for a grade, it can be frustrating. 
+  - Cons:  I do not believe there is a functionality to easily upload the results of the polls/quizzes to websites/other apps, so if a teacher is doing this for a grade, it can be frustrating. 
   
 * Games. This has been more in K-12, but teachers have been using games to keep their students engaged. They’ve ranged from things like Kahoot to internet scavenger hunts.
 
-  -Pros: Trivia games have been shown to keep brains engaged and it can be a fun thing to lighten students’ moods during the ongoing pandemic.
+  - Pros: Trivia games have been shown to keep brains engaged and it can be a fun thing to lighten students’ moods during the ongoing pandemic.
 
-  -Cons: Some college professors may find it childish
+  - Cons: Some college professors may find it childish
 
 ### What Guidelines and Principles Do These Follow?
 
