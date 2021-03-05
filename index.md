@@ -10,7 +10,7 @@ While a user’s goal may be to learn class content by simply logging in to a ca
 
 This problem is relevant to the theme of hybrid synchronous learning because students are susceptible to distractions outside of an official classroom environment. It can be argued that it is much easier for students to distract themselves with cell phones, class-unrelated web-browsing, and/or computer games without professors or TA’s holding students accountable. 
 
-Furthermore, students are less likely to engage in such behaviors in an official classroom, as their actions can potentially distract other students as well. (Study International Staff, 2019) 
+Furthermore, students are less likely to engage in such behaviors in an official classroom, as their actions can potentially distract other students as well. ([Citation 2](https://github.com/dloubser1/Milestone-2/blob/gh-pages/index.md#works-cited)) 
 
 However, when a student is at home, their actions are much less likely to directly affect their peers, so they are less likely to think twice about engaging in such actions. Students in a classroom setting are more likely to focus on the material because possible distractions such as cell phone usage can be prohibited by the instructor. 
 However, when not in an official classroom or lecture hall, it is much easier for students to turn to such devices and disconnect from learning, which can potentially hinder their ability to absorb and process vital lesson material.
