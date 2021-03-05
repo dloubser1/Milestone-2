@@ -67,7 +67,7 @@ Users would benefit through a solution by ensuring greater participation and foc
 
 Existing solutions include: 
 
-* Zoom Whiteboard. Zoom has a feature called Whiteboard that is what it sounds like; it’s a virtual whiteboard that the teacher and students can write on. High school and college professors use it to keep their students engaged. 
+* Zoom Whiteboard. Zoom has a feature called Whiteboard that is what it sounds like; it’s a virtual whiteboard that the teacher and students can write on. High school and college professors use it to keep their students engaged. (Acedemic Community, 2021)
 
   - Pros: this allows students and teachers to interact in real time. If students have not been given permission to write on it, it is still a good way to keep students attention since it is familiar to a classroom setting.
   
@@ -79,7 +79,7 @@ Existing solutions include:
   
   - Cons:  I do not believe there is a functionality to easily upload the results of the polls/quizzes to websites/other apps, so if a teacher is doing this for a grade, it can be frustrating. 
   
-* Games. This has been more in K-12, but teachers have been using games to keep their students engaged. They’ve ranged from things like Kahoot to internet scavenger hunts.
+* Games. This has been more in K-12, but teachers have been using games to keep their students engaged. They’ve ranged from things like Kahoot to internet scavenger hunts. (Graduate Programs for Educators, 2020)
 
   - Pros: Trivia games have been shown to keep brains engaged and it can be a fun thing to lighten students’ moods during the ongoing pandemic.
 
