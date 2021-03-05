@@ -122,7 +122,8 @@ The design will be a success if students are able to edit a document only availa
 
 1. Bouchrika, Imed. “50 Online Education Statistics: 2020 Data on Higher Learning &amp; Corporate Training.” Guide 2 Research, 30 June 2020, www.guide2research.com/research/online-education-statistics. 
 2. “Netflix and Study: Why Online Students Are More Easily Distracted.” Study International, 20 Mar. 2020, www.studyinternational.com/news/online-class-distract-multitask/. 
-3. Birky, Kelly. “Five Tips to Engage Students on Zoom.” Illinois CITL, 19 May 2020, www.citl.illinois.edu/citl-101/teaching-learning/teaching-tips-blog/teaching-tips/2020/05/19/engaging-students-on-zoom. 
-4. “Engaging Students through Zoom.” Academic Continuity, 2021, www.academiccontinuity.yale.edu/faculty/how-guides/zoom/engaging-students-through-zoom. 
-5. MrHooker. “25 Strategies to Engage Students on Your Next Zoom Meeting.” Hooked On Innovation, 28 Oct. 2020, www.hookedoninnovation.com/2020/05/13/25-strategies-to-engage-zoom/. 
-
+3. “Barnes &amp; Noble Education Survey Reveals College Student Preparedness Split: Technically Ready for Online Learning, But Emotionally Unsure.” AP NEWS, Associated Press, 8 Apr. 2020, www.apnews.com/press-release/business-wire/74629581e0e6409ca411dadf0967a4f2. 
+4. Birky, Kelly. “Five Tips to Engage Students on Zoom.” Illinois CITL, 19 May 2020, www.citl.illinois.edu/citl-101/teaching-learning/teaching-tips-blog/teaching-tips/2020/05/19/engaging-students-on-zoom. 
+5. “Engaging Students through Zoom.” Academic Continuity, 2021, www.academiccontinuity.yale.edu/faculty/how-guides/zoom/engaging-students-through-zoom. 
+6. MrHooker. “25 Strategies to Engage Students on Your Next Zoom Meeting.” Hooked On Innovation, 28 Oct. 2020, www.hookedoninnovation.com/2020/05/13/25-strategies-to-engage-zoom/. 
+7. Hance, Misty. “How Learning Through Gamification Keeps Students Engaged.” Graduate Programs for Educators, 10 Nov. 2020, www.graduateprogram.org/2019/07/how-learning-through-games-keeps-students-engaged/. 
