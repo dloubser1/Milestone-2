@@ -87,6 +87,15 @@ Existing solutions include:
 
 ### What Guidelines and Principles Do These Follow?
 
+These solutions conform to the guideline of practicing universal design, in that they provide different means for users to interact with them. Zoom Whiteboard can be accessed both through the web application as well as through the mobile app, like on an iPad or iPhone. Polling can also be done through all their apps.
+
+The Whiteboard solution conforms to the principle of keeping users in control. The Whiteboard allows users to write on the virtual board and collaborate with other users. The host is able to maintain who can write on it, giving everyone varying levels of control for this feature. 
+
+Zoom Polling conforms to the principle of offering informative feedback; polling displays the voting information after said polling has concluded.
+
+Using games as an activity to maintain engagement doesn’t include any guidelines or principles, as it isn’t a design. The game is a heavily dynamic activity, created by a teacher for each class, so it doesn’t incorporate design elements traditionally.
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Part C
