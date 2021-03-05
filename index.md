@@ -10,7 +10,7 @@ While a user’s goal may be to learn class content by simply logging in to a ca
 
 This problem is relevant to the theme of hybrid synchronous learning because students are susceptible to distractions outside of an official classroom environment. It can be argued that it is much easier for students to distract themselves with cell phones, class-unrelated web-browsing, and/or computer games without professors or TA’s holding students accountable. 
 
-Furthermore, students are less likely to engage in such behaviors in an official classroom, as their actions can potentially distract other students as well. ([Citation 2](www.studyinternational.com/news/online-class-distract-multitask)) 
+Furthermore, students are less likely to engage in such behaviors in an official classroom, as their actions can potentially distract other students as well.
 
 However, when a student is at home, their actions are much less likely to directly affect their peers, so they are less likely to think twice about engaging in such actions. Students in a classroom setting are more likely to focus on the material because possible distractions such as cell phone usage can be prohibited by the instructor. 
 However, when not in an official classroom or lecture hall, it is much easier for students to turn to such devices and disconnect from learning, which can potentially hinder their ability to absorb and process vital lesson material.
@@ -103,9 +103,6 @@ If any one student’s time of last edit becomes too egregious, the teacher is n
 
 There exist solutions similar to this, such as the Zoom Whiteboard, but they fail to individualize the experience for every student. The Whiteboard is shared between the whole meeting (or breakout room), and the teacher is unable to monitor it if they are not in that specific room. Our proposal allows for the teacher to have viewing access to each student’s notes or work on an activity, while the students are able to securely take notes and show their participation in class without verbal or visual actions.
 
-A shared note-taker application or add-on for Zoom available to individual students and teachers. Students are able to edit their notes, adding images, drawing, inserting handwriting, or just inserting text. Teachers are able to view the page a student is editing, watching their participation in real time.
-
-This is essentially an expansion upon the Zoom Whiteboard feature, that individualizes the experience to a relationship between student and teacher.
 
 ### How Will We Measure Success
 
@@ -120,10 +117,10 @@ The design will be a success if students are able to edit a document only availa
 
 ## Works Cited
 
-1. Bouchrika, Imed. “50 Online Education Statistics: 2020 Data on Higher Learning &amp; Corporate Training.” Guide 2 Research, 30 June 2020, www.guide2research.com/research/online-education-statistics. 
-2. “Netflix and Study: Why Online Students Are More Easily Distracted.” Study International, 20 Mar. 2020, www.studyinternational.com/news/online-class-distract-multitask/. 
-3. “Barnes &amp; Noble Education Survey Reveals College Student Preparedness Split: Technically Ready for Online Learning, But Emotionally Unsure.” AP NEWS, Associated Press, 8 Apr. 2020, www.apnews.com/press-release/business-wire/74629581e0e6409ca411dadf0967a4f2. 
-4. Birky, Kelly. “Five Tips to Engage Students on Zoom.” Illinois CITL, 19 May 2020, www.citl.illinois.edu/citl-101/teaching-learning/teaching-tips-blog/teaching-tips/2020/05/19/engaging-students-on-zoom. 
-5. “Engaging Students through Zoom.” Academic Continuity, 2021, www.academiccontinuity.yale.edu/faculty/how-guides/zoom/engaging-students-through-zoom. 
-6. MrHooker. “25 Strategies to Engage Students on Your Next Zoom Meeting.” Hooked On Innovation, 28 Oct. 2020, www.hookedoninnovation.com/2020/05/13/25-strategies-to-engage-zoom/. 
-7. Hance, Misty. “How Learning Through Gamification Keeps Students Engaged.” Graduate Programs for Educators, 10 Nov. 2020, www.graduateprogram.org/2019/07/how-learning-through-games-keeps-students-engaged/. 
+1. Bouchrika, Imed. “50 Online Education Statistics: 2020 Data on Higher Learning &amp; Corporate Training.” Guide 2 Research, 30 June 2020, [www.guide2research.com/research/online-education-statistics](www.guide2research.com/research/online-education-statistics). 
+2. “Netflix and Study: Why Online Students Are More Easily Distracted.” Study International, 20 Mar. 2020, [www.studyinternational.com/news/online-class-distract-multitask/](www.studyinternational.com/news/online-class-distract-multitask/). 
+3. “Barnes &amp; Noble Education Survey Reveals College Student Preparedness Split: Technically Ready for Online Learning, But Emotionally Unsure.” AP NEWS, Associated Press, 8 Apr. 2020, [www.apnews.com/press-release/business-wire/74629581e0e6409ca411dadf0967a4f2](www.apnews.com/press-release/business-wire/74629581e0e6409ca411dadf0967a4f2). 
+4. Birky, Kelly. “Five Tips to Engage Students on Zoom.” Illinois CITL, 19 May 2020, [www.citl.illinois.edu/citl-101/teaching-learning/teaching-tips-blog/teaching-tips/2020/05/19/engaging-students-on-zoom](www.citl.illinois.edu/citl-101/teaching-learning/teaching-tips-blog/teaching-tips/2020/05/19/engaging-students-on-zoom). 
+5. “Engaging Students through Zoom.” Academic Continuity, 2021, [www.academiccontinuity.yale.edu/faculty/how-guides/zoom/engaging-students-through-zoom](www.academiccontinuity.yale.edu/faculty/how-guides/zoom/engaging-students-through-zoom). 
+6. MrHooker. “25 Strategies to Engage Students on Your Next Zoom Meeting.” Hooked On Innovation, 28 Oct. 2020, [www.hookedoninnovation.com/2020/05/13/25-strategies-to-engage-zoom/](www.hookedoninnovation.com/2020/05/13/25-strategies-to-engage-zoom/). 
+7. Hance, Misty. “How Learning Through Gamification Keeps Students Engaged.” Graduate Programs for Educators, 10 Nov. 2020, [www.graduateprogram.org/2019/07/how-learning-through-games-keeps-students-engaged/](www.graduateprogram.org/2019/07/how-learning-through-games-keeps-students-engaged/). 
